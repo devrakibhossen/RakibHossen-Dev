@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="340" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/375793907/original/69a0c085a5e95a97aea4a029131bb9acd7e0d50a/be-your-frontend-web-developer-using-react-html-css-javascript.png"  />
+  <img height="340" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/5992673/cover_image/optimized/1005_Design-Patterns-in-React_Cover-50911a22c4656a1f2a381b6c9ca38d57.png"  />
 </div>
 
 ###
