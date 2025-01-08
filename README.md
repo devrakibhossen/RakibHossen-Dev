@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="340" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/5992673/cover_image/optimized/1005_Design-Patterns-in-React_Cover-50911a22c4656a1f2a381b6c9ca38d57.png"  />
+  <img height="340" src="https://i.ibb.co.com/TKQZpNR/github-banner-image.png"  />
 </div>
 
 ###
@@ -8,7 +8,11 @@
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">Front-End Developer</h2>
+
+###
+
+<h3 align="left">🚀 About Me</h3>
 
 ###
 
@@ -20,7 +24,7 @@
 
 ###
 
-<h2 align="left">🛠️ Things I code with</h2>
+<h3 align="left">🛠️ Things I code with</h3>
 
 ###
 
@@ -50,7 +54,7 @@
 
 ###
 
-<h2 align="left">📫 Connect with Me</h2>
+<h3 align="left">📫 Connect with Me</h3>
 
 ###
 
@@ -71,7 +75,7 @@
 
 ###
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h3 align="left">📈 GitHub Stats</h3>
 
 ###
 
