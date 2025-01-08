@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">👯 I’m looking to collaborate on React.js, Node.js, and MongoDB projects focused on scalable web apps.<br>📚 I'm currently learning Next js.<br>🎯 Goals: To become a Senior Developer and lead impactful, innovative projects.<br>⚡ Fun fact: I love exploring new frameworks and solving LeetCode challenges.</p>
+<p align="left">I’m Rakib Hossen, a dedicated Front-End Developer with extensive experience in building MERN-based applications. I focus on creating responsive, dynamic, and scalable web solutions that offer seamless user experiences. My expertise includes React.js for intuitive front-end development and Node.js, Express.js, and MongoDB for building secure and efficient back-end systems.<br><br>I prioritize clean code, performance optimization, and user-centric designs in every project. Passionate about leveraging modern technologies, I strive to deliver impactful and innovative solutions. Let's collaborate to turn ideas into reality!</p>
 
 ###
 
-<p align="left">I’m Rakib Hossen, a dedicated Front-End Developer with extensive experience in building MERN-based applications. I focus on creating responsive, dynamic, and scalable web solutions that offer seamless user experiences. My expertise includes React.js for intuitive front-end development and Node.js, Express.js, and MongoDB for building secure and efficient back-end systems.<br><br>I prioritize clean code, performance optimization, and user-centric designs in every project. Passionate about leveraging modern technologies, I strive to deliver impactful and innovative solutions. Let's collaborate to turn ideas into reality!</p>
+<p align="left">👯 I’m looking to collaborate on React.js, Node.js, and MongoDB projects focused on scalable web apps.<br>📚 I'm currently learning Next js.<br>🎯 Goals: To become a Senior Developer and lead impactful, innovative projects.<br>⚡ Fun fact: I love exploring new frameworks and solving LeetCode challenges.</p>
 
 ###
 
